@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountingNotesFrsId_2016", "AccountingNotesFrsId\2016\AccountingNotesFrsId_2016.csproj", "{64FC52E0-0914-4A4A-AB71-633248594D85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountingNotesFrsId_2019", "AccountingNotesFrsId\2019\AccountingNotesFrsId_2019.csproj", "{45617A7E-69E2-462D-A0F9-4DE42387B27F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64FC52E0-0914-4A4A-AB71-633248594D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FC52E0-0914-4A4A-AB71-633248594D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FC52E0-0914-4A4A-AB71-633248594D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FC52E0-0914-4A4A-AB71-633248594D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45617A7E-69E2-462D-A0F9-4DE42387B27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45617A7E-69E2-462D-A0F9-4DE42387B27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45617A7E-69E2-462D-A0F9-4DE42387B27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45617A7E-69E2-462D-A0F9-4DE42387B27F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
