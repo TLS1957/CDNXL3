@@ -1,5 +1,8 @@
 # Object file
-*.o
+Backup\
+TempPE\
+*.CACHE
+Temporary*.*
 
 # Ada Library Information
 *.ali
